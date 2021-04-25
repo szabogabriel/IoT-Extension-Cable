@@ -2,9 +2,6 @@
 
 ## Components
 
-### Analog mux-demux 74HC4053
-![74HC4053 analog mux-demux](Pinout_74HC4053.jpg)
-
 ### EEPROM AT28C256
 ![AT28C256 EEPROM](Pinout_AT28C256.png)
 
